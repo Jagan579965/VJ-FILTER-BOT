@@ -6,8 +6,7 @@
 import re
 from os import environ
 from Script import script 
-
-id_pattern = re.compile()
+
 
 # Bot information
 SESSION = environ.get('SESSION', 'TechVJBot')
