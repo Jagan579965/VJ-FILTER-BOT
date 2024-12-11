@@ -6,8 +6,7 @@
 import re
 from os import environ
 from Script import script 
-
-
+
 # Bot information
 SESSION = environ.get('SESSION', 'TechVJBot')
 API_ID = int(environ.get('API_ID', '22296245'))
